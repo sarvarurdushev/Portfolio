@@ -86,18 +86,43 @@ To help teams make **faster, clearer, more confident decisions**.
 
 ---
 
-## 📌 Featured Projects  
-### 📦 Inventory Forecast Engine  
-**Python · SQL · scikit-learn · ETL**  
-Reduced stock-outs + optimized reorder strategy.
+ 
+<!-- Cyberpunk neon grid style using table + GIF/SVG -->
+## Featured Projects
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sarvarurdushev/Logistics_delay">
+        <img src="https://img.shields.io/badge/Logistics_Delay-0A0F1F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBzdHJva2U9IiM0REZBRkYiIHN0cm9rZS13aWR0aD0iMS42IiBkPSJNMCAyMmg1bDUtMTBoM2w1IDhoNiIvPjwvc3ZnPg==&logoColor=4DFBFF&labelColor=000000" />
+      </a>
+      <p align="center"><strong>Forecasting delays with PCA, K-means, Agglomerative, DBSCAN</strong></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sarvarurdushev/Database_Management_System">
+        <img src="https://img.shields.io/badge/Database_Management_System-110022?style=for-the-badge&logo=postgresql&logoColor=00E5FF" />
+      </a>
+      <p align="center"><strong>End-to-end DB design, ERD, schema optimization, SQL automation</strong></p>
+    </td>
+  </tr>
 
-### 🎯 User Behavior Analytics  
-**SQL · Cohort analysis · Power BI**  
-Improved retention & lifecycle insights.
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sarvarurdushev/INHA-CONNECT">
+        <img src="https://img.shields.io/badge/INHA_CONNECT-001133?style=for-the-badge&logo=react&logoColor=00F0FF" />
+      </a>
+      <p align="center"><strong>Campus-wide platform: events, crowds, analytics, personalization</strong></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sarvarurdushev/GEHDAS">
+        <img src="https://img.shields.io/badge/GEHDAS-001F29?style=for-the-badge&logo=python&logoColor=39F3FF" />
+      </a>
+      <p align="center"><strong>Smart automation tools, dashboards, and dataset workflows</strong></p>
+    </td>
+  </tr>
+</table>
 
-### 🔄 Automated KPI Pipeline  
-**APIs · Python · Postgres**  
-Cut manual reporting time by 85%.
+<!-- Neon Divider -->
+<img src="https://raw.githubusercontent.com/sarvarurdushev/Portfolio/main/assets/neon-divider.svg" width="100%" />
 
 
 
